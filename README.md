@@ -1,3 +1,6 @@
+Naam: Leon Mendonca Monteiro Fernandes
+Userid: LeonMMF
+
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
